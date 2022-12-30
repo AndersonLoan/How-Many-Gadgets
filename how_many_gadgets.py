@@ -38,4 +38,3 @@ if userDay > 0:
     print(f"The total number of gadgets produced on day {str(userO)} is {str(gadgets)}")
 else:
     print("You entered an invalid number!")
-print(x)
